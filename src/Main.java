@@ -50,7 +50,7 @@ public class Main {
         System.out.println("Всего работников в компании - " + person + " человек");
         person = person + 94;
         weekWorkHours = person * personHours;
-        System.out.println("Если в компании работает " + person + " человек, то всего  " + weekWorkHours + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + person + " человек, то всего " + weekWorkHours + " часов работы может быть поделено между сотрудниками");
 
     }
 }
